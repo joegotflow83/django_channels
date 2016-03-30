@@ -1,0 +1,6 @@
+*.DS_Store
+*__pycache__
+*.pyc
+channels_project/db.sqlite3
+channels_env/
+channels_project/dumb.rdb
